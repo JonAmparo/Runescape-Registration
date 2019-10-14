@@ -1,0 +1,53 @@
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe.config
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Login.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.MainMenu.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Resources.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Create.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Edit.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Home.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Registration.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.View.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe.config
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.pdb
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.xml
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Create.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Edit.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Login.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Home.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Resources.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Registration.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.MainMenu.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.View.resources
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbproj.GenerateResource.cache
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbproj.CoreCompileInputs.cache
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.exe
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.xml
+C:\Users\Jamparo\Dropbox\Jonathan_Amparo\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe.config
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.pdb
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Create.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Edit.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Login.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Home.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Resources.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Registration.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.MainMenu.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.View.resources
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.exe
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.xml
+C:\Users\Jonathan\Dropbox\Jonathan_Amparo\Block3(SQL & VB .NET)\VB.NET 2\Labs\WindowsApp4\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.pdb
